@@ -18,5 +18,10 @@ A base de dados utiliza dados fake que são armazenados na memória na própria 
         "name",
         "email"
     ]
-   }
-  ```
+   }  ```
+
+## Como testar
+1. Executar o projeto
+2. Fazer um GET no recurso de Club onde serão retornados os dados pessoais expostos
+3. Fazer um POST no recurso Anonimize passando os campos que se deseja anonimizar
+4. Fazer um GET novamente em Club e observar os campos anonimizados
