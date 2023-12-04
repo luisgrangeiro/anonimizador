@@ -1,0 +1,14 @@
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\AppService.deps.json
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\AppService.dll
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\AppService.pdb
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\luisc\source\repos\Anonimizador\AppService\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.AssemblyInfoInputs.cache
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.AssemblyInfo.cs
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.csproj.CopyComplete
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.dll
+C:\Users\luisc\source\repos\Anonimizador\AppService\obj\Debug\netcoreapp3.1\AppService.pdb

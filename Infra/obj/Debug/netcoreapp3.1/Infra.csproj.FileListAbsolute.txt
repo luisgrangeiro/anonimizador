@@ -1,0 +1,12 @@
+C:\Users\luisc\source\repos\Anonimizador\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\luisc\source\repos\Anonimizador\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\luisc\source\repos\Anonimizador\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\luisc\source\repos\Anonimizador\Infra\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\luisc\source\repos\Anonimizador\Infra\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\luisc\source\repos\Anonimizador\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
